@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  font-family: sans-serif ;
+  -webkit-font-smoothing:antialiased;
+  -moz-oxz-font-smoothing:grayscale;
+  height:100%;
+  background: linear-gradient( #2A00B7, #42006C);
+}
+
+code{
+  font-family:source-code-pro, Menlo, Monaco, console, monospace;
+}
